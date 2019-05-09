@@ -1,0 +1,68 @@
+header {
+
+    background-color: #D8D8D8;
+    width: auto;
+    height: 100px;
+
+
+}
+
+#blue-square {
+
+    width: 80px;
+    height: 80px;
+    float: left;
+    background-color: #4A90E2;
+    margin: 10px 20px;
+
+
+}
+
+#some-content {
+
+    width: auto;
+    padding: 40px;
+
+}
+
+div {
+
+    height: 120px;
+
+}
+
+#blue-bar {
+
+    background-color: #4A90E2;
+    width: auto;
+
+}
+
+#aqua-bar {
+
+    background-color: #66E3C3;
+    width: auto;
+
+}
+
+#green-bar {
+
+    background-color: #B8E986;
+    width: auto;
+
+}
+
+#yellow-bar {
+
+    background-color: #F8E832;
+    width: auto;
+
+}
+
+p {
+
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
