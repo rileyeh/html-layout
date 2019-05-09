@@ -1,0 +1,39 @@
+header {
+
+    background-color: #444444;
+    width: auto;
+    height: 100px;
+
+}
+
+
+#left-bar {
+
+    background-color: #D8D8D8;
+    width: 100px;
+    height: calc(100vh - 100px);
+    float: left;
+
+}
+
+
+
+#right-bar {
+
+    background-color: #D8D8D8;
+    width: 100px;
+    height: calc(100vh - 100px);
+    float: right;
+
+}
+
+footer {
+
+    background-color: #232323;
+    width: auto;
+    height: 100px;
+    position: relative;
+    top: calc(100vh - 200px);
+    z-index: -1;
+
+}
